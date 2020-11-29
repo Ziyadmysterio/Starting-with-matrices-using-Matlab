@@ -10,4 +10,5 @@ v(lowa)=0
 %next we group the mid and high seperate
 mid=v(v<7 & v>3)
 high=v(v>7)
-
+%transpose operations
+w=v'
